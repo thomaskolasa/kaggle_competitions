@@ -1,5 +1,5 @@
 """
-Creating my first Titanic submission. In this model, I predict everybody dies. Turns out, 63% of people died.
+Creating my first Titanic submission. In this model, I predict everybody dies. Turns out, 63% of people in the test set died.
     ___o .--.
    /___| |OO|
   /'   |_|  |_
